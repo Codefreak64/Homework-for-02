@@ -1,5 +1,22 @@
 #Top{
     height: 50px;
-    width: 25%;
+    width: 100%;
     background-color: darkcyan;
+    text-align: center;
+    position: relative;
+}
+#MidI{
+    height: 500px;
+    width: 100%;
+    background-color: skyblue;
+}
+#MidP{
+    height: 50%;
+    width: 100%;
+    background-color: skyblue;
+}
+#MidC{
+    height: 50%;
+    width: 100%;
+    background-color: skyblue;
 }
